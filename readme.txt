@@ -2,17 +2,17 @@
 CLH:
 
 1.  Use the following command in a linux machine to compile:
-	g++ CLH-cs20mtech14008.cpp -o CLH-cs20mtech14008.o -lpthread
+	g++ CLH.cpp -o CLH.o -lpthread
 
 2.  Run the compiled code using the following code:
-	./CLH-cs20mtech14008.o
+	./CLH.o
 
 MCS:
 
 1.  Use the following command in a linux machine to compile:
-	g++ MCS-cs20mtech14008.cpp -o MCS-cs20mtech14008.o -lpthread
+	g++ MCS.cpp -o MCS.o -lpthread
 
 2.  Run the compiled code using the following code:
-	./MCS-cs20mtech14008.o
+	./MCS.o
 
 
